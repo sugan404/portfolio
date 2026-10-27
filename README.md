@@ -71,6 +71,10 @@ No environment variables or configuration are required. The project does not use
 
 https://github.com/sugan404/portfolio
 
+## Live Demo
+
+https://sugan404.github.io/portfolio/
+
 ## Notes
 
 This project is maintained independently of Lovable. The original website was created using the Lovable builder platform, and all builder-specific references, branding, and generated metadata have been removed or replaced for independent publication.
