@@ -1,0 +1,7 @@
+# Static portfolio - no build step needed
+*.env*
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
